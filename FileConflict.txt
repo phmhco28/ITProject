@@ -13,3 +13,6 @@ Dong thu 5 may tinh 2
 Dong thu 4 may tinh 1
 
 Dong thu 6 tren may tinh 2
+
+test
+
