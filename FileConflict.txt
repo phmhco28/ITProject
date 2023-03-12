@@ -19,3 +19,5 @@ test
 Dong thu 10
 
 Dong 12
+
+Noi dung duoc them tai nhanh C
