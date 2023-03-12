@@ -13,3 +13,5 @@ Sua noi dung dung Git GUI
 Sua lan 2 dung Git GUI
 
 Dung SourceTree
+
+Noi dung them moi ben nhanh Main
