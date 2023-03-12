@@ -7,3 +7,5 @@ Noi dung tren nhanh A
 Ket thuc buoi hoc
 
 Dung Git GUI
+
+Sua noi dung dung Git GUI
