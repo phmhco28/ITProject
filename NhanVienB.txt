@@ -1,1 +1,3 @@
 Noi dung nhan vien B
+
+Noi dung duoc them vao tai Nhanh B
